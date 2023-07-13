@@ -30,7 +30,7 @@ namespace VShop.ProductApi.Repositories
 
         public async Task<IEnumerable<CategoryStock>> GetAll()
         {
-            return await _context.CategoriesStock.ToListAsync();
+            return await _context.CategoriesStock.Include(c => c.Products).ToListAsync();
         }
 
         public async Task<IEnumerable<CategoryStock>> GetCategoriesProducts()

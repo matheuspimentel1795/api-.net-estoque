@@ -1,4 +1,5 @@
-﻿using VShop.ProductApi.Models;
+﻿using System.Text.Json.Serialization;
+using VShop.ProductApi.Models;
 
 namespace VShop.ProductApi.DTOs
 {
@@ -11,7 +12,7 @@ namespace VShop.ProductApi.DTOs
         public decimal Price { get; set; }
 
         public int Stock { get; set; }
-
+        [JsonIgnore]
         public CategoryStock? Category { get; set; } 
         public int CategoryId { get; set; }
     }

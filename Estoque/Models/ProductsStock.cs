@@ -1,4 +1,6 @@
-﻿namespace VShop.ProductApi.Models
+﻿using System.Text.Json.Serialization;
+
+namespace VShop.ProductApi.Models
 {
     public class ProductsStock
     {
