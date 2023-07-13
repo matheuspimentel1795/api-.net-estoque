@@ -1,0 +1,268 @@
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.csproj.AssemblyReference.cache
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.AssemblyInfoInputs.cache
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.AssemblyInfo.cs
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.csproj.CoreCompileInputs.cache
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\bin\Debug\net6.0\appsettings.json
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\bin\Debug\net6.0\VShop.ProductApi.exe
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\bin\Debug\net6.0\VShop.ProductApi.deps.json
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\bin\Debug\net6.0\VShop.ProductApi.runtimeconfig.json
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\bin\Debug\net6.0\VShop.ProductApi.dll
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\bin\Debug\net6.0\VShop.ProductApi.pdb
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\obj\Debug\net6.0\scopedcss\bundle\VShop.ProductApi.styles.css
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.csproj.CopyComplete
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.dll
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\obj\Debug\net6.0\refint\VShop.ProductApi.dll
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.pdb
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.genruntimeconfig.cache
+C:\Users\matheus\source\repos\VShop.ProductApi\VShop.ProductApi\obj\Debug\net6.0\ref\VShop.ProductApi.dll
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\appsettings.json
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\VShop.ProductApi.exe
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\VShop.ProductApi.deps.json
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\VShop.ProductApi.runtimeconfig.json
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\VShop.ProductApi.dll
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\VShop.ProductApi.pdb
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.csproj.AssemblyReference.cache
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.AssemblyInfoInputs.cache
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.AssemblyInfo.cs
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.csproj.CoreCompileInputs.cache
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\scopedcss\bundle\VShop.ProductApi.styles.css
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.csproj.CopyComplete
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.dll
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\refint\VShop.ProductApi.dll
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.pdb
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.genruntimeconfig.cache
+C:\Users\matheus\Desktop\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\ref\VShop.ProductApi.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\appsettings.json
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\VShop.ProductApi.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\VShop.ProductApi.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\VShop.ProductApi.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\VShop.ProductApi.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\VShop.ProductApi.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\staticwebassets\msbuild.VShop.ProductApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\staticwebassets\msbuild.build.VShop.ProductApi.props
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VShop.ProductApi.props
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VShop.ProductApi.props
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\scopedcss\bundle\VShop.ProductApi.styles.css
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.csproj.CopyComplete
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\refint\VShop.ProductApi.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\api shopp\projeto-api-Backend-em-.netCore\VShop.ProductApi\obj\Debug\net6.0\ref\VShop.ProductApi.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\obj\Debug\net6.0\refint\VShop.ProductApi.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\appsettings.json
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\VShop.ProductApi.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\VShop.ProductApi.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\VShop.ProductApi.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\VShop.ProductApi.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\VShop.ProductApi.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\obj\Debug\net6.0\staticwebassets\msbuild.VShop.ProductApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\obj\Debug\net6.0\staticwebassets\msbuild.build.VShop.ProductApi.props
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VShop.ProductApi.props
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VShop.ProductApi.props
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\obj\Debug\net6.0\scopedcss\bundle\VShop.ProductApi.styles.css
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.csproj.CopyComplete
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\obj\Debug\net6.0\VShop.ProductApi.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\api-.net\VShop.ProductApi\obj\Debug\net6.0\ref\VShop.ProductApi.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\appsettings.json
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\VShop.ProductApi.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\VShop.ProductApi.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\VShop.ProductApi.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\VShop.ProductApi.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\VShop.ProductApi.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\obj\Debug\net6.0\VShop.ProductApi.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\obj\Debug\net6.0\VShop.ProductApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\obj\Debug\net6.0\VShop.ProductApi.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\obj\Debug\net6.0\VShop.ProductApi.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\obj\Debug\net6.0\VShop.ProductApi.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\obj\Debug\net6.0\VShop.ProductApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\obj\Debug\net6.0\VShop.ProductApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\obj\Debug\net6.0\staticwebassets\msbuild.VShop.ProductApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\obj\Debug\net6.0\staticwebassets\msbuild.build.VShop.ProductApi.props
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VShop.ProductApi.props
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VShop.ProductApi.props
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\obj\Debug\net6.0\scopedcss\bundle\VShop.ProductApi.styles.css
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\obj\Debug\net6.0\VShop.ProductApi.csproj.CopyComplete
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\obj\Debug\net6.0\VShop.ProductApi.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\obj\Debug\net6.0\refint\VShop.ProductApi.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\obj\Debug\net6.0\VShop.ProductApi.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\obj\Debug\net6.0\VShop.ProductApi.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\obj\Debug\net6.0\ref\VShop.ProductApi.dll
