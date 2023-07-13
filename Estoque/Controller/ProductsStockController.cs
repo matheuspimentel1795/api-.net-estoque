@@ -11,9 +11,11 @@ namespace VShop.ProductApi.Controller
     public class ProductsStockController : ControllerBase
     {
         private readonly IProductsStockService _productsService;
-        public ProductsStockController(IProductsStockService productsService)
+        private readonly ICategoryStockService _categoryService;
+        public ProductsStockController(IProductsStockService productsService, ICategoryStockService categoryService)
         {
             _productsService = productsService;
+            _categoryService = categoryService;
         }
         [HttpGet]
         public async Task<ActionResult<IEnumerable<ProductStockDto>>> Get()
@@ -35,10 +37,19 @@ namespace VShop.ProductApi.Controller
         [HttpPost]
         public async Task<ActionResult<ProductStockDto>> Post([FromBody] ProductStockDto productDto)
         {
+            if(productDto.CategoryId == null)
+            {
+                return NotFound("CategoryId não informado.");
+            }
+            var checkCategoryId = await _categoryService.GetCategoryById(productDto.CategoryId);
+            if (checkCategoryId is null)
+            {
+                return NotFound(" A Categoria que está sendo feita a inclusão do produto não existe, tente com uma CategoryId válida.");
+            }
             if (productDto == null)
                 return NotFound("Produto nao encontrado");
             await _productsService.Create(productDto);
-            return productDto;
+            return Ok("Produto adicionado com sucesso.");
         }
 
         [HttpDelete("{id:int}")]
