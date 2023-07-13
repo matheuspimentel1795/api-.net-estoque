@@ -40,5 +40,12 @@ namespace VShop.ProductApi.Controller
             await _productsService.Create(productDto);
             return productDto;
         }
+
+        [HttpDelete("{id:int}")]
+        public async Task<ActionResult> Delete(int id)
+        {
+            await _productsService.Delete(id);
+            return Ok("Produto Deletado com sucesso");
+        }
     }
 }

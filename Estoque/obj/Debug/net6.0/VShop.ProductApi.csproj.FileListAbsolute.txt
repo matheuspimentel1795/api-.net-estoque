@@ -266,3 +266,5 @@ C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Est
 C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\obj\Debug\net6.0\VShop.ProductApi.pdb
 C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\obj\Debug\net6.0\VShop.ProductApi.genruntimeconfig.cache
 C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\obj\Debug\net6.0\ref\VShop.ProductApi.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\Docker.DotNet.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\processo seletivo\api-.net-estoque\Estoque\bin\Debug\net6.0\Newtonsoft.Json.dll
