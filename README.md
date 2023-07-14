@@ -5,5 +5,6 @@
 
 .O Projeto foi desenvolvido em .NET Core 6.
 .Projeto desenvolvido com arquitetura MVC.
+.API Documentada no Swagger
 
 Obs : o banco foi criado a partir de migrations.
